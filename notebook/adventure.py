@@ -6,8 +6,7 @@
 #when you find “the medal”, the game ends with a final message
 
     
-#other ideas:
-    #change fonts or something to distinguish questions from answers from statements,add complexities, aesthetics-header design, success design
+
 
     
 ########## DICTIONARIES
