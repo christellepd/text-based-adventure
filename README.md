@@ -12,7 +12,7 @@ applied to rent, and the landlord chooses you as a tenant! But there's one last 
     
         ... ... ...
         
-You got your signing appointment with you landlord and you now need to figure out which route 
+You got your signing appointment with your landlord and you now need to figure out which route 
 will lead you to your destination and arrive on time.
 There are various ways to get to Mitte. Are you ready?
 ```
