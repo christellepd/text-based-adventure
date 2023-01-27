@@ -1,4 +1,4 @@
-# 🏡: The Crazy Apartment Hunt: A Berlin-inspired Adventure
+# :house_with_garden: The Crazy Apartment Hunt: A Berlin-inspired Adventure
 ![](./images/adventure.jpeg)
 
 
@@ -14,3 +14,4 @@
 
 ---
 ### :page_with_curl: Credits
+- [Photo](https://www.indieretronews.com/2020/10/survival-messenger-adventure-high.html)
