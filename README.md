@@ -5,6 +5,9 @@
 
 
 ### :green_book: Description
+This repository shows a text-based adventure made with Python.
+
+
 ```
 You are new in Berlin and are looking for a place to live. You found a listing in Mitte, 
 applied to rent, and the landlord chooses you as a tenant! But there's one last thing
