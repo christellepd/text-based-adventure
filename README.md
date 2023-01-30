@@ -22,7 +22,7 @@ There are various ways to get to Mitte. Are you ready?
 
 
 ---
-### :computer: Tools
+### :computer: Tech Stack
 `Python` `Data Types and Operators` `Strings` `If Statements` `Loops` `Lists` `Dictionaries`
 
 
